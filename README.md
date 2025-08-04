@@ -20,4 +20,8 @@ pnpm run dev
 
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะ `Vercel URL` และลิงค์ `GitHub Repo URL` ของน.ศ. ไว้ใน Spreadsheet ด้านล่าง
 
-[คลิกเพื่อเปิด Spreadsheet]()
+[คลิกเพื่อเปิด Spreadsheet](https://o365cmu-my.sharepoint.com/:x:/g/personal/dome_potikanond_cmu_ac_th/ETFvzKA2h2lKk-3ktumEanUBRtX4sAvNHk-ssok3MFwYOg)
+
+ตัวอย่าง app ที่เสร็จแล้ว
+
+https://lab09-tuinuichanadda-67062039-u6r9.vercel.app/ 
